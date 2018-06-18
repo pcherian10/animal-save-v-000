@@ -11,5 +11,5 @@ html {
 /* Write your solution here */
 
 @media screen and (min-width: 1196px) {
-  width: 800px;
+  max-width: 800px;
 }
