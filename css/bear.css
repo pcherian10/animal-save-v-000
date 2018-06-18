@@ -11,5 +11,9 @@ html {
 /* Write your solution here */
 
 @media only screen and (min-width: 1196px) {
-  width: 80%;
+  #bear {
+    position: absolute;
+    top: 100px;
+    right: 0;
+  }
 }
