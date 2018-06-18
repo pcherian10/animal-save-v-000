@@ -20,4 +20,4 @@ html {
 
 /* Write your solution here */
 
-@media only screen and (min-width:400 and max-width)
+@media only screen and (min-width:400px) and (max-width:900px)
